@@ -1,0 +1,11 @@
+data/feature_maps/50k_3b_3sph
+1
+0   1
+data/feature_maps/50k_3b_11sph
+6
+17  2
+25  2
+34  2
+39  2
+0   -6
+29 -4

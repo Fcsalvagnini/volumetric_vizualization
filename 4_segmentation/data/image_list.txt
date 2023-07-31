@@ -1,0 +1,17 @@
+16
+image_001_T1GD.nii.gz
+image_002_T1GD.nii.gz
+image_003_T1GD.nii.gz
+image_004_T1GD.nii.gz
+image_006_T1GD.nii.gz
+image_007_T1GD.nii.gz
+image_008_T1GD.nii.gz
+image_009_T1GD.nii.gz
+image_001_FLAIR.nii.gz
+image_002_FLAIR.nii.gz
+image_003_FLAIR.nii.gz
+image_004_FLAIR.nii.gz
+image_006_FLAIR.nii.gz
+image_007_FLAIR.nii.gz
+image_008_FLAIR.nii.gz
+image_009_FLAIR.nii.gz
