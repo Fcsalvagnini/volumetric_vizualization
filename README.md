@@ -2,6 +2,16 @@
 
 > This repository aims to explore techniques to visualize volumetric images. Moreover, it also explores image segmentation through the image operator Image Foresting Transform (IFT).
 
+<img
+    style="display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 60%;"
+    src="0_data/input/brain.gif"
+    alt="Brain Rendering with Phong's Model">
+</img>
+
+
 This repository arose from the course "MO815A - Volumetric Image Visualization," which occurred in the first semester of 2023. The course was ministered by Alexandre Falcão from UNICAMP's Computing Institute.
 
 X-ray computed tomography (CT), confocal microscopy, and magnetic resonance (MR) are examples of several imaging modalities that outcome volumetric (or 3D) images. These imaging modalities provide visual information to study the interior of humans, animals, plants, and minerals, with many applications to Medicine, Geology, Biology, and other areas of Sciences and Engineering. A fundamental problem, however, is the visualization of the content of interest in those 3D images, named objects, which might be pores of a rock, organs of a human body, and stem cells of a plant, for instance.
@@ -23,7 +33,7 @@ according to the user (i.e., radiologist, neuroradiologist);
 - **7_transparent_rendering:** Finally, we expand the code developed previously (6_opaque_rendering) to improve our visualization and deal with objects' visibility and opacity.
 # Preparing the environment
 
-To enable code compilation, one must first download the ift library. Available at [Falcãos page](https://www.ic.unicamp.br/~afalcao/mo815-3dvis/libmo815-3dvis.tar.bz2).
+To enable code compilation, one must first download the ift library. Available at [Falcão's page](https://www.ic.unicamp.br/~afalcao/mo815-3dvis/libmo815-3dvis.tar.bz2).
 
 After downloading the library, put it into the repository's root, under the folder lib, and further extract it.
 
