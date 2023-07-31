@@ -2,14 +2,16 @@
 
 > This repository aims to explore techniques to visualize volumetric images. Moreover, it also explores image segmentation through the image operator Image Foresting Transform (IFT).
 
+<center>
 <img
     style="display: block;
            margin-left: auto;
            margin-right: auto;
-           width: 60%;"
+           width: 100%;"
     src="0_data/input/brain.gif"
     alt="Brain Rendering with Phong's Model">
 </img>
+</center>
 
 
 This repository arose from the course "MO815A - Volumetric Image Visualization," which occurred in the first semester of 2023. The course was ministered by Alexandre Falcão from UNICAMP's Computing Institute.
